@@ -1,0 +1,2 @@
+rootProject.name='MapasGPS'
+include ':app'
